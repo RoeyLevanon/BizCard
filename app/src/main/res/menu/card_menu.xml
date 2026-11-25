@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/btn_share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_call"
+        android:title="@string/btn_call"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_web"
+        android:title="@string/btn_site"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_edit"
+        android:title="ערוך"
+        app:showAsAction="never" />
+</menu>

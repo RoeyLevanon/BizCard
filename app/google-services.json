@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609335051955",
+    "project_id": "project11-64a67",
+    "storage_bucket": "project11-64a67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609335051955:android:7cd8af194cdfc3b6b7d2c6",
+        "android_client_info": {
+          "package_name": "com.ort.tivon.ch11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vyypfgkyxQc58Q_J1gS4rOhv_Yza8Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

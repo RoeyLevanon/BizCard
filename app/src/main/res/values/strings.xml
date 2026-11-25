@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">כרטיס ביקור</string>
+    <string name="title_main">כרטיס ביקור</string>
+    <string name="hint_name">שם מלא</string>
+    <string name="hint_job">תפקיד</string>
+    <string name="hint_phone">טלפון</string>
+    <string name="hint_site">אתר (למשל ort.org.il)</string>
+    <string name="btn_create">צור כרטיס</string>
+    <string name="btn_about">אודות</string>
+    <string name="btn_call">חייג</string>
+    <string name="btn_site">פתח אתר</string>
+    <string name="btn_share">שתף</string>
+    <string name="btn_back">חזרה</string>
+    <string name="msg_empty">נא למלא את כל השדות</string>
+    <string name="msg_no_app">לא נמצאה אפליקציה מתאימה</string>
+    <string name="share_title">שתף כרטיס עם…</string>
+    <string name="about_title">אודות</string>
+    <string name="about_text">אפליקציית כרטיס ביקור דיגיטלי.\nממלאים פרטים, יוצרים כרטיס, ואפשר לחייג, לפתוח את האתר או לשתף את הכרטיס.\n\nשיעורי בית – פרק 8 (Intents)\nגרסה 1.0</string>
+    <string name="firebase_setup_title">הגדרת Firebase</string>
+    <string name="firebase_setup_text">האפליקציה דורשת חיבור ל-Firebase.\nיש למלא את פרטי החיבור (API_KEY, APPLICATION_ID, DATABASE_URL) בקובץ FirebaseConfig.java מתוך Firebase Console.</string>
+    <string name="exam">מבחן</string>
+    <string name="reset">איפוס</string>
+    <string name="about">אודות</string>
+    <string name="action_logIn">התחברות</string>
+    <string name="action_logout">התנתקות</string>
+    <string name="action_logInfo">פרטי התחברות</string>
+</resources>
